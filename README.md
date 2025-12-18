@@ -1,4 +1,4 @@
-# StudManage
+# Student Management System
 Student Grade Management System
 
 Built with C# and SQL Server
