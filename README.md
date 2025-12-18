@@ -1,9 +1,9 @@
 # StudManage
-学生成绩管理系统
+Student Grade Management System
 
-C# 和 sqlserver
+Built with C# and SQL Server
 
-预览图：
+Preview:
 
 ![image](https://user-images.githubusercontent.com/73229305/220565752-72087d35-fa0c-45e1-b7ff-78502397d2b8.png)
 
