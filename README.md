@@ -1,5 +1,4 @@
 # Student Management System
-# Student Grade Management System
 
 A C# desktop application for managing student records, course enrollment, and grades. Built with a client–server architecture, the system provides separate interfaces for students, teachers, and administrators.
 
