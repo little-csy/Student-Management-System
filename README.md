@@ -57,6 +57,11 @@ Students can review course scores, grade classifications, grade points, and aver
 
 Preview:
 
-![image](https://user-images.githubusercontent.com/73229305/220565752-72087d35-fa0c-45e1-b7ff-78502397d2b8.png)
+<img width="812" height="484" alt="image" src="https://github.com/user-attachments/assets/32fc7a45-1494-4481-a0f4-cf968500c446" />
+<img width="822" height="479" alt="image" src="https://github.com/user-attachments/assets/045b6656-b832-4a17-abd7-32b11c98952d" />
+<img width="808" height="487" alt="image" src="https://github.com/user-attachments/assets/575fee2a-775a-4c28-909e-2112e29d9b5f" />
+<img width="763" height="515" alt="image" src="https://github.com/user-attachments/assets/13983578-e137-4e24-b6fc-264738f45769" />
 
-![image](https://user-images.githubusercontent.com/73229305/220565823-4112975e-04ae-46af-a784-5a0b9f94446a.png)
+
+
+
